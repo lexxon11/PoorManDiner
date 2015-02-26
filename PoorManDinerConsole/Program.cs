@@ -22,6 +22,7 @@ namespace PoorManDinerConsole
 
             drinkMenu.AddMenuItem("Virgin Cuba Libre", " A classic", 4.50);
             drinkMenu.AddMenuItem("Coca-Cola Rootbeer" , "Heavy and delicious", 6.50);
+            drinkMenu.AddMenuItem("Long Island IceTea", " Sweet, Sour and Strong", 9.00);
 
             var hungryCustomer = new Order();
 
