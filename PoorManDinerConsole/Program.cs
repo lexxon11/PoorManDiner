@@ -4,6 +4,8 @@ using System.Linq;
 using System.Net.WebSockets;
 using System.Text;
 using System.Threading.Tasks;
+using PoorManDiner.Business;
+
 
 namespace PoorManDinerConsole
 {

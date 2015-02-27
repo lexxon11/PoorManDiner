@@ -1,7 +1,4 @@
-﻿using PoorManDinerBusinessLayer;
-using System;
-
-namespace PoorManDinerBusinessLayer
+﻿namespace PoorManDiner.Business
 
 
 {
