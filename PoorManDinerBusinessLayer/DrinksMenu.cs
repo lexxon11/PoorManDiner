@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PoorManDinerBusinessLayer;
+using System;
 
-namespace PoorManDinerConsole
+namespace PoorManDinerBusinessLayer
+
+
 {
    public class DrinksMenu : Menu
     {
