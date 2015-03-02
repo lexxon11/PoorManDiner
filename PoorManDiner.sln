@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorManDinerConsole", "Poor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorManDinerBusinessLayer", "PoorManDinerBusinessLayer\PoorManDinerBusinessLayer.csproj", "{794E6FC9-B443-4A26-9785-FAFE8E1DF47F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorManDinerClient", "PoorManDinerClient\PoorManDinerClient.csproj", "{6FCAB738-1924-4D6D-90F5-F59B95E4E3D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{794E6FC9-B443-4A26-9785-FAFE8E1DF47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{794E6FC9-B443-4A26-9785-FAFE8E1DF47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{794E6FC9-B443-4A26-9785-FAFE8E1DF47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCAB738-1924-4D6D-90F5-F59B95E4E3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCAB738-1924-4D6D-90F5-F59B95E4E3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCAB738-1924-4D6D-90F5-F59B95E4E3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCAB738-1924-4D6D-90F5-F59B95E4E3D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
